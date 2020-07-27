@@ -15,7 +15,7 @@ To run the module on Windows, use the following command in the same directory as
 The module contains Swagger documentation for the API. When the module is running, the Swagger UI can be accessed using:
 - http://localhost:41000/Commerce/swagger-ui.html#
 
-Using Swagger, an Item can be saved using a POST operation to the /v1/item endpoint.  The response include the ID created for the Item.
+Using Swagger, an Item can be saved using a POST operation to the /v1/item endpoint.  The response includes the ID created for the Item.
 - http://localhost:41000/Commerce/swagger-ui.html#/item-resource/saveItemUsingPOST
 
 Example payload 1:
